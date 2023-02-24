@@ -1,0 +1,13 @@
+*.pyc
+*.egg-info
+*.python-version
+
+build/
+data/
+
+.DS_Store/
+.mypy_cache/
+.pytest_cache/
+__pycache__/
+.idea/
+.ipynb_checkpoints/
